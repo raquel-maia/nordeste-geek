@@ -6,9 +6,11 @@
 
 #container {
   display: block;
+  text-align: justify;
 }
 
-body{
+body {
+  display: flex-inline;
   background-image: url(./imagens/banner.jpg);
   background-repeat: no-repeat;
   background-position: top;
@@ -17,18 +19,17 @@ body{
 
 h1 {
   color: black;
-  margin: 420px 0px 0px;
+  margin: 150px 20px 0px;
 }
 
 ul {
   margin: 10px 0px 0px;
   text-align: center;
-
 }
 
 li {
   display: inline-block;
-   text-decoration: none;
+  text-decoration: none;
 }
 
 img {
@@ -42,7 +43,7 @@ img {
   text-align: left;
   margin-bottom: 2px;
 }
- /* testando sem esse código*/
+/* testando sem esse código*/
 
 a {
   text-decoration: none;
@@ -51,7 +52,7 @@ a {
 h2 {
   display: block;
   font-size: 15px;
-  text-align: left;
+  text-align: justify;
   margin: 10px 0px 0px;
 }
 
@@ -60,13 +61,13 @@ p {
   margin: 5px 0px 0px;
 }
 
-.all{
+.all {
   display: flex;
   gap: 2px;
   text-align: justify;
 }
 
-.all button{
+.all button {
   background-color: white;
   color: black;
 }
@@ -76,7 +77,7 @@ p {
 }
 
 h4 {
-  display:flex;
+  display: flex;
   text-align: justify;
 }
 button {
@@ -89,14 +90,11 @@ button {
   margin: 5px 0px 0px 0px;
 }
 
- button:hover {
+button:hover {
   background-color: green;
 }
-
-
 
 footer {
   margin: 30px 0px 0px;
   text-align: center;
 }
-
