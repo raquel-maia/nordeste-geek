@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  display: block;
+}
+
+body{
+  background-image: url(./imagens/banner.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+h1 {
+  color: black;
+  margin: 420px 0px 0px;
+}
+
+ul {
+  margin: 10px 0px 0px;
+  text-align: center;
+
+}
+
+li {
+  display: inline-block;
+   text-decoration: none;
+}
+
+img {
+  display: flex;
+  width: 400px;
+  margin: 30px 0px 0px 0px;
+}
+
+.price a {
+  display: block;
+  text-align: left;
+  margin-bottom: 2px;
+}
+ /* testando sem esse código*/
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  display: block;
+  font-size: 15px;
+  text-align: left;
+  margin: 10px 0px 0px;
+}
+
+p {
+  text-align: left;
+  margin: 5px 0px 0px;
+}
+
+.all{
+  display: flex;
+  gap: 2px;
+  text-align: justify;
+}
+
+.all button{
+  background-color: white;
+  color: black;
+}
+
+.all button:hover {
+  background-color: blue;
+}
+
+h4 {
+  display:flex;
+  text-align: justify;
+}
+button {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  display: block;
+  border-radius: 5px;
+  margin: 5px 0px 0px 0px;
+}
+
+ button:hover {
+  background-color: green;
+}
+
+
+
+footer {
+  margin: 30px 0px 0px;
+  text-align: center;
+}
+
