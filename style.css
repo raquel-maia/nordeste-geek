@@ -6,14 +6,13 @@
 
 #container {
   display: block;
-  text-align: justify;
 }
 
 body {
-  display: flex-inline;
+  display: block;
   background-image: url(./imagens/banner.jpg);
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: top center;
   background-size: contain;
 }
 
