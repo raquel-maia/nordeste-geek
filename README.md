@@ -30,5 +30,4 @@ Fiz a  Página Nordeste Geek para adicionar alguns produtos em Promoção para D
 Esse projeto está sob a licença MIT.
 
 ---
-
 Feito com ♥ by Raquel Maia
