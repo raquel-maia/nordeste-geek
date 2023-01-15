@@ -1,6 +1,6 @@
-# Minha loja online
+# Nordeste Geek
 
-<p align="left">  A ideia  inicial desse projeto é colocar meus conhecimentos em prática, que ainda são poucos. Para realizá-lo, primeiro tentei pesquisar algumas tags para relembrar o último curso que realizei, mas o site não ficou muito responsivo. Depois, comecei a utilizar o chatGPT. exatamente, a famosa IA, e sim, me ajudou muito! </p>
+<p align="left">  A ideia  inicial desse projeto é colocar meus conhecimentos em prática, que ainda são poucos. Para realizá-lo, primeiro tentei pesquisar algumas tags para relembrar o último curso que realizei, mas o site não ficou muito responsivo. Depois, comecei a utilizar o chatGPT. exatamente, a famosa IA me ajudou muito! </p>
 
 <p> Ainda não está 100%, mas aos poucos vou refatorando para deixar mais profissional e continuar praticando. A sua sugestão de melhoria será bem-vinda! Abraços
 
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 ## 💻 Projeto
 
-Fiz a  Página Nordeste Geek para adicionar alguns produtos em Promoção para Devs e Devas👩🏽‍💻👨🏽‍💻.
+Fiz a  Página Nordeste Geek para adicionar alguns produtos legais em Promoção para Devs e Devas👩🏽‍💻👨🏽‍💻.
 
 - [Acesse o projeto finalizado, online](https://raquel-maia.github.io/nordeste-geek/)
 
