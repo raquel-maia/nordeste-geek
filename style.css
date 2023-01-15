@@ -36,7 +36,7 @@ h1 {
   display: flex;
   justify-content: center;
   margin: 10px; /*define o espaçamento entre as imagens*/
-  text-align: left;
+  text-align: center;
 }
 
 img {
