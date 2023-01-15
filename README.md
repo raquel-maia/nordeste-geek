@@ -1,8 +1,8 @@
 # Minha loja online
 
-<p align="left">  A ideia  inical desse projeto é colocar meus conhecimentos em prática, que ainda são poucos haha. Para realizar, primeiro tentei pesquisar algumas tags para relembrar o último curso que realizei, mas o site não ficou muito responsivo. Depois, comecei a utilizar o chatGPT haha exatamente, a famosa IA, e sim, me ajudou muito! </p>
+<p align="left">  A ideia  inicial desse projeto é colocar meus conhecimentos em prática, que ainda são poucos haha. Para realizá-lo, primeiro tentei pesquisar algumas tags para relembrar o último curso que realizei, mas o site não ficou muito responsivo. Depois, comecei a utilizar o chatGPT haha exatamente, a famosa IA, e sim, me ajudou muito! </p>
 
-<p> Aos poucos vou refatorando para deixar mais profissional e continuar praticando. A sua sugestão de melhoria será bem-vinda! Abraços
+<p> Ainda não está 100%, mas aos poucos vou refatorando para deixar mais profissional e continuar praticando. A sua sugestão de melhoria será bem-vinda! Abraços
 
 
 <h1 align="center"> Página Nordeste Geek</h1>
