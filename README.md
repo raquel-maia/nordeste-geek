@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Fiz a  Página Nordeste Geek para adicionar alguns produtos legais em Promoção para Devs e Devas👩🏽‍💻👨🏽‍💻.
 
-- [Acesse o projeto finalizado, online](https://raquel-maia.github.io/nordeste-geek/)
+- [Acesse o projeto finalizado](https://raquel-maia.github.io/nordeste-geek/)
 
 ## :memo: Licença
 
