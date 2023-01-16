@@ -11,12 +11,6 @@
   background-position: center;
 }
 
-h1 {
-  margin: 10px auto;
-  font-family: monospace;
-  color: green;
-  transition: ease-in 3s;
-}
 
 .banner img {
   width: 100%;
@@ -24,27 +18,42 @@ h1 {
   object-fit: cover;
 }
 
+h1 {
+  margin: 10px auto;
+  font-family: monospace;
+  color: green;
+  transition: ease-in 3s;
+}
+
 .container {
   width: 100%;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .image-container {
-  display: flex;
-  justify-content: center;
-  margin: 10px; /*define o espaçamento entre as imagens*/
   text-align: center;
+  margin-left: 5px; /*define o espaçamento entre as imagens*/
+  }
+
+
+.image-container p {
+  color: black;
+  font-size: 16px;
+  margin: 10px 10px auto;
 }
 
-img {
-  display: flex;
+
+.image-container img {
+  display: block;
   width: 50%;
+  justify-content: center;
+  margin: auto;
+  cursor: pointer;
 }
 
-ul {
+.size-buttons ul {
   display: flex;
   justify-content: center;
   text-decoration: none;
@@ -52,75 +61,11 @@ ul {
   text-align: center;
 }
 
-li {
+.size-buttons li {
   display: flex;
   list-style: none;
 }
 
-.image-container p {
-  display: block;
-  color: black;
-  font-size: 18px;
-  margin: 10px 5px 0px;
-}
-
-.price-button p {
-  font-size: 20px;
-  align-items: center;
-  font-weight: bolder;
-}
-
-.size-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 5px;
-  margin: 5px 2px 5px 0px;
-}
-
-
-li button {
-  padding: 3px;
-  border: 1px solid whitesmoke;
-}
-
-footer {
-  text-align: center;
-}
-.container {
-  width: 80%;
-  margin: 0 auto;
-  align-content: center;
-}
-.container {
-  flex-wrap: wrap;
-}
-
-.image-container {
-  display: block;
-  text-align: center;
-  margin: 10px 4px 0px; /*define o espaçamento entre as imagens*/
-}
-
-img {
-  display: block;
-  width: 50%;
-  justify-content: center;
-  margin: auto;
-}
-
-li button {
-  display: flex;
-  align-items: center;
-  padding: 3px;
-  border: 1px solid whitesmoke;
-}
-
-
-
-.price-button {
-  display: block;
-  justify-content: center;
-}
 a {
   display: flex;
   justify-content: center;
@@ -128,16 +73,41 @@ a {
 }
 
 a button {
-  justify-content: center;
   padding: 4px;
   font-size: 18px;
   background-color: red;
-  border-bottom: 10%;
   color: white;
   margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.price-button p {
+  margin: 2px 0px 2px 0px;
+  font-size: 20px;
+  align-items: center;
+  font-weight: bolder;
 }
 
 .price-button button:hover {
+  background-color: green;
+}
+
+.size-buttons button{
+  display: flex;
+  justify-content: center;
+  background-color: antiquewhite;
+  color: black;
+  margin-left: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.size-buttons li.button {
+  padding: 3px;
+  border: 1px solid whitesmoke;
+}
+
+.size-buttons button:hover{
   background-color: green;
 }
 
