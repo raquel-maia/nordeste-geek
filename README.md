@@ -1,4 +1,4 @@
-# Nordeste Geek
+# Nordeste Geek - Meu Primeiro Projeto Autoral (Aprendendo)
 
 <p align="left">  A ideia  inicial desse projeto é colocar meus conhecimentos em prática, que ainda são poucos. Para realizá-lo, primeiro tentei pesquisar algumas tags para relembrar o último curso que realizei, mas o site não ficou muito responsivo. Depois, comecei a utilizar o chatGPT. exatamente, a famosa IA me ajudou muito! </p>
 
